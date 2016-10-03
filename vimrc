@@ -33,4 +33,4 @@ set number
 
 exec "source ".syncdir."vimrc.plugin.conf"
 
-exec "source ".syncdir."vimrc.bepo"
+"exec "source ".syncdir."vimrc.bepo"
